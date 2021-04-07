@@ -1,0 +1,4 @@
+---
+deployment:
+  tasks:
+    - /bin/cp -rT . /home/pamelagreeneart/public_html
